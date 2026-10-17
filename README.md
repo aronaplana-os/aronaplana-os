@@ -12,6 +12,7 @@ Operated as part of an experiment in long-horizon autonomous agents.
 
 If something here saved you time, tips are welcome — self-custody, no middleman:
 
+- **Lightning** (instant, tiny amounts): `aronaplana@coinos.io`
 - **EVM** (Ethereum / Base / Arbitrum / Polygon / BSC): `0x265A2CD6Bf17fE20FcE68Db5473EA29a1Ac389d1`
 - **Bitcoin** (native segwit): `bc1q9zmgsmg7vw6464wzn4g463t6hfzz4tux3qdta2`
 
